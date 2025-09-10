@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrés!!
 ================================================================================================================================
 
-Junior Backend Engineer
+Junior Fullstack Engineer
 -----------------
 
-I graduated college 2024, and I specialize in Backend development focused on Java Spring Boot (but with some knowledge of C#), but I also have knowledge of Frontend development in React.js (mainly because I made a Fullstack Web App with these two for my college thesis) as well as using Python in a jack-of-all trades type of way.
+I graduated college 2024, and I focus on Backend development oriented towards Java Spring Boot (but with some knowledge of C#), Frontend developemnt with React.js/Next.js, and Python in a jack-of-all trades type of way.
 
 *   🌍  I'm based in Madrid, Spain
 *   ✉️  You can contact me at [andressalazarcolina@gmail.com](mailto:andressalazarcolina@gmail.com)
-*   🧠  I'm learning React.js (with TypeScript), Astro, Tailwind CSS, and the Godot Engine
+*   🧠  I'm learning React Native, Node.js, and Machine Learning 
 *   🤝  I'm open to collaborating on cool projects that address a problem or fill a need (the more aimed to ordinary users, the better), and also anything related to books, movies, music, or othery nerdy/fun things.
 *   ⚡  I speak both English and Spanish fluently, and I'm an avid fantasy reader, filmbuff, and part-time foodie!!### Skills 
 <p align="left">
